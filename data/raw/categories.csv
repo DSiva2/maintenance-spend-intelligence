@@ -1,0 +1,13 @@
+category_code,category_name,kind
+C01,Pump & Compressor Repair,service
+C02,Valves & Actuators,material
+C03,"Piping, Flanges & Fittings",material
+C04,Mechanical Contractor Labor,service
+C05,Scaffolding Services,service
+C06,Insulation Services,service
+C07,Inspection & NDT Services,service
+C08,Industrial Cleaning,service
+C09,Electrical & Instrumentation,material
+C10,Equipment & Crane Rental,service
+C11,MRO Parts,material
+C12,Lubricants,material

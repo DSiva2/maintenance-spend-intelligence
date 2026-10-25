@@ -1,0 +1,100 @@
+vendor_id,vendor_name,city,state,tax_id,status,status_reason,blocked_date,default_payment_terms_days,safety_emr,insurance_expiry,created_date
+V10001,Delta Rotating Equipment Inc,Baton Rouge,LA,68-4949905,Active,,,30,0.67,2025-11-13,2021-10-25
+V10002,Delta Rotating Equip,Baton Rouge,LA,68-4949905,Active,,,30,1.18,2026-06-22,2019-05-01
+V10003,Delta Rotating Equipment,Baton Rouge,LA,,Active,,,30,1.23,2025-11-20,2015-07-05
+V10004,Sabine Pump Works LLC,Orange,TX,77-2751748,Active,,,30,0.71,2025-09-23,2018-09-15
+V10005,SABINE PUMP WORKS LLC,Orange,TX,77-2751748,Active,,,30,0.69,2026-11-05,2020-11-29
+V10006,Sabine Pump Works L.L.C.,Orange,TX,77-2751748,Active,,,30,1.18,2025-08-30,2018-06-16
+V10007,Brazos Machine & Repair Co,Freeport,TX,81-9082787,Active,,,30,0.7,2025-07-30,2021-08-11
+V10008,Brazos Machine & Repair,Freeport,TX,81-9082787,Inactive,,,30,0.68,2025-05-26,2020-04-12
+V10009,Acadiana Compressor Service LLC,Lafayette,LA,68-5239865,Active,,,30,1.04,2026-09-17,2019-06-28
+V10010,"ACADIANA COMPRESSOR SERVICE, LLC",Lafayette,LA,68-5239865,Active,,,30,1.2,2025-03-08,2015-04-11
+V10011,Acadiana Compressor Service,Lafayette,LA,68-5239865,Inactive,,,30,1.17,2025-06-20,2017-05-01
+V10012,Magnolia Pump Service LLC,Conroe,TX,39-1204408,Active,,,30,0.92,2025-03-19,2015-09-19
+V10013,Lone Star Valve Supply Inc,Houston,TX,90-5509402,Active,,,30,,,2018-12-13
+V10014,Crescent Flow Control LLC,Kenner,LA,71-2495926,Active,,,30,,,2018-01-09
+V10015,CRESCENT FLOW CONTROL,Kenner,LA,71-2495926,Active,,,30,,,2015-09-12
+V10016,Bayou Valve & Supply Co,Sulphur,LA,78-9722586,Active,,,30,,,2017-01-27
+V10017,BAYOU VALVE AND SUPPLY,Sulphur,LA,78-9722586,Active,,,30,,,2022-03-02
+V10018,Red River Valve Co,Shreveport,LA,11-7826675,Active,,,30,,,2020-04-07
+V10019,Red  River Valve Company,Shreveport,LA,11-7826675,Active,,,30,,,2016-06-04
+V10020,RED RIVER VALVE COMPANY,Shreveport,LA,,Active,,,30,,,2022-11-10
+V10021,Southern Industrial Pipe & Supply Corp,Houston,TX,61-6512066,Active,,,30,,,2019-09-10
+V10022,Southern Industrial Pipe&Supply Corporation,Houston,TX,61-6512066,Active,,,30,,,2021-05-31
+V10023,Trinity Pipe & Fittings LLC,Baytown,TX,33-5905039,Active,,,30,,,2019-02-18
+V10024,TRINITY PIPE & FITTINGS LLC,Baytown,TX,33-5905039,Inactive,,,30,,,2015-12-11
+V10025,Calcasieu Steel Supply Inc,Lake Charles,LA,35-7572659,Active,,,30,,,2020-10-09
+V10026,CALCASIEU STEEL SUP INC,Lake Charles,LA,,Inactive,,,30,,,2018-08-27
+V10027,Calcasieu Steel Sup Inc,Lake Charles,LA,35-7572659,Active,,,30,,,2021-06-01
+V10028,Pelican Pipe & Valve LLC,Gonzales,LA,,Active,,,30,,,2016-03-15
+V10029,Magnolia Mechanical Constructors LLC,Baton Rouge,LA,,Active,,,30,0.96,2026-10-13,2018-09-23
+V10030,"Magnolia Mech Constructors, LLC",Baton Rouge,LA,89-8610783,Active,,,30,0.69,2025-08-19,2017-12-19
+V10031,Magnolia Mechanical Constructors L.L.C.,Baton Rouge,LA,89-8610783,Active,,,30,1.28,2026-10-14,2018-12-18
+V10032,Ironclad Industrial Services Inc,Pasadena,TX,54-9409351,Active,,,30,0.69,2025-01-11,2015-02-22
+V10033,Bayport Mechanical LP,La Porte,TX,70-3668816,Active,,,30,1.01,2025-05-31,2018-04-24
+V10034,Cypress Field Services LLC,Cypress,TX,27-1225911,Active,,,30,0.69,2026-06-07,2018-06-12
+V10035,Cypress Field Services,Cypress,TX,,Active,,,30,0.62,2025-04-01,2017-05-22
+V10036,"CYPRESS FIELD SERVICES, LLC",Cypress,TX,27-1225911,Active,,,30,1.25,2025-04-19,2020-11-11
+V10037,Delta Industrial Contractors Inc,Geismar,LA,81-6708709,Active,,,30,0.68,2026-07-27,2017-04-15
+V10038,"Delta Industrial Contractors, Inc.",Geismar,LA,81-6708709,Active,,,30,0.9,2026-08-29,2019-03-20
+V10039,Gulf Coast Scaffold Services LLC,Port Allen,LA,95-8807414,Active,,,30,0.77,2025-07-20,2018-08-09
+V10040,Gulf  Coast Scaffold Svcs,Port Allen,LA,95-8807414,Active,,,30,0.7,2026-09-06,2022-04-08
+V10041,"GUL  COAST SCAFFOLD SERVICES, LLC",Port Allen,LA,95-8807414,Active,,,30,0.64,2026-11-04,2016-03-21
+V10042,Apex Access Systems Inc,Deer Park,TX,55-7126430,Active,,,30,0.95,2026-08-10,2018-02-15
+V10043,APEX ACCESS SYSTEMS,Deer Park,TX,55-7126430,Active,,,30,0.89,2026-08-02,2017-03-29
+V10044,Pelican Scaffold & Rigging LLC,Prairieville,LA,14-9332355,Active,,,30,1.18,2025-05-31,2015-11-06
+V10045,Pelican Scaffold & Rigging,Prairieville,LA,14-9332355,Active,,,30,1.15,2025-05-31,2021-09-12
+V10046,Atchafalaya Insulation Co,Plaquemine,LA,,Active,,,30,0.92,2025-08-24,2019-01-31
+V10047,Summit Thermal Services LLC,Beaumont,TX,71-6756068,Active,,,30,0.93,2025-07-02,2017-02-11
+V10048,SUMMIT THERMAL SERVICES L.L.C.,Beaumont,TX,71-6756068,Active,,,30,1.26,2026-03-18,2020-04-29
+V10049,Republic Insulation Inc,Houston,TX,91-7932610,Active,,,30,1.19,2025-08-28,2018-11-19
+V10050,REPUBLIC INSULATION,Houston,TX,91-7932610,Active,,,30,1.2,2026-04-22,2020-01-10
+V10051,Precision NDT Services Inc,Houston,TX,94-6529417,Active,,,30,0.66,2026-04-10,2015-10-03
+V10052,Allied Inspection Group LLC,Baton Rouge,LA,,Active,,,30,1.02,2026-12-02,2022-08-12
+V10053,ALLIE INSPECTION GROUP LLC,Baton Rouge,LA,74-2236671,Active,,,30,0.72,2026-12-29,2021-04-24
+V10054,"Allied Inspection Group, LLC",Baton Rouge,LA,74-2236671,Active,,,30,1.02,2025-01-06,2016-02-08
+V10055,Allied Inspection Group,Baton Rouge,LA,74-2236671,Inactive,,,30,0.83,2026-11-11,2015-09-12
+V10056,Coastal Integrity Testing LLC,Lake Charles,LA,82-7862788,Active,,,30,0.82,2026-04-09,2017-02-23
+V10057,COASTAL INTEGRITY TESTING LLC,Lake Charles,LA,82-7862788,Active,,,30,1.26,2026-12-03,2016-03-04
+V10058,"Coastal Integrity Testing, LLC",Lake Charles,LA,82-7862788,Active,,,30,1.2,2026-03-24,2021-12-21
+V10059,Lone Star Inspection Services LLC,Pearland,TX,66-5303548,Active,,,30,0.61,2026-03-06,2015-10-05
+V10060,Texan Hydroblasting Inc,Pasadena,TX,50-4881713,Active,,,30,0.91,2025-08-04,2015-02-05
+V10061,Texan Hydroblasting Incorporated,Pasadena,TX,,Active,,,30,0.67,2025-08-09,2015-11-17
+V10062,TEXA HYDROBLASTING INCORPORATED,Pasadena,TX,50-4881713,Active,,,30,0.7,2025-01-18,2021-10-13
+V10063,Bayou Vacuum & Industrial Cleaning LLC,Sulphur,LA,79-1131153,Active,,,30,0.63,2026-10-27,2015-01-16
+V10064,Coastal Hydro Services LLC,Texas City,TX,,Blocked,Safety violations,2024-06-01,30,0.77,2026-03-19,2017-04-14
+V10065,Crescent City Electric Supply Inc,New Orleans,LA,,Active,,,30,,,2021-05-11
+V10066,Lone Star Automation LLC,Sugar Land,TX,,Active,,,30,,,2018-07-18
+V10067,Lone Star Automation L.L.C.,Sugar Land,TX,,Active,,,30,,,2018-07-25
+V10068,LONE STAR AUTOMATION L.L.C.,Sugar Land,TX,85-7283086,Active,,,30,,,2019-01-17
+V10069,Sabine Instrument Co,Port Arthur,TX,,Active,,,30,,,2015-05-03
+V10070,SABINE INSTRUMENT COMPANY,Port Arthur,TX,14-1039412,Active,,,30,,,2015-09-23
+V10071,Bayou Electrical Contractors LLC,Gonzales,LA,87-6151717,Active,,,30,,,2016-12-21
+V10072,Bayou Electrical Contractors,Gonzales,LA,87-6151717,Active,,,30,,,2018-08-31
+V10073,Red River Crane & Rigging LLC,Baton Rouge,LA,55-9223442,Active,,,30,0.69,2025-12-13,2022-07-11
+V10074,Red River Crane & Rigging,Baton Rouge,LA,55-9223442,Active,,,30,0.82,2025-07-22,2019-11-07
+V10075,Gulfway Equipment Rentals Inc,Houston,TX,36-4765599,Active,,,30,1.0,2025-12-15,2018-10-06
+V10076,Bayport Lift Rentals LLC,La Porte,TX,62-7318018,Active,,,30,0.82,2026-02-04,2020-02-23
+V10077,"Bayport Lift Rentals, LLC",La Porte,TX,62-7318018,Active,,,30,1.22,2025-09-08,2016-01-07
+V10078,Coastal Equipment Rental Co,Lake Charles,LA,91-7600526,Active,,,30,0.82,2026-01-15,2019-02-14
+V10079,COASTAL EQUIPMENT RENTAL CO.,Lake Charles,LA,91-7600526,Active,,,30,0.82,2026-09-04,2015-07-28
+V10080,Delta Bearing & Power Transmission Inc,Baton Rouge,LA,,Active,,,30,,,2020-08-09
+V10081,DELTA BEARING & POWER TRANSMISSION,Baton Rouge,LA,,Active,,,30,,,2018-07-27
+V10082,DELT BEARING & POWER TRANSMISSION,Baton Rouge,LA,90-1132145,Active,,,30,,,2021-01-02
+V10083,Gulf States Seal & Gasket Co,Houston,TX,,Active,,,30,,,2016-04-26
+V10084,Pelican Industrial Supply LLC,Conroe,TX,,Active,,,30,,,2021-05-13
+V10085,Pelican Industrial Sup,Conroe,TX,95-6003724,Inactive,,,30,,,2017-06-07
+V10086,PELICAN IND SUPPLY L.L.C.,Conroe,TX,95-6003724,Active,,,30,,,2015-02-10
+V10087,Pelica Industrial Supply LLC,Conroe,TX,95-6003724,Active,,,30,,,2015-09-01
+V10088,Brazos Industrial Parts Inc,Angleton,TX,,Active,,,30,,,2017-08-18
+V10089,BRAZOS INDUSTRIAL PARTS INC,Angleton,TX,88-4046108,Active,,,30,,,2018-10-31
+V10090,Trinity Bearing Supply LLC,Baytown,TX,85-5782698,Active,,,30,,,2015-03-05
+V10091,"TRINITY BEARING SUPPLY, LLC",Baytown,TX,85-5782698,Active,,,30,,,2019-10-30
+V10092,Petro Lube Distributors Inc,Houston,TX,92-4782413,Active,,,30,,,2017-06-10
+V10093,Petro Lube Distributors Inc.,Houston,TX,92-4782413,Inactive,,,30,,,2020-07-31
+V10094,Cypress Lubricants LLC,Cypress,TX,67-9129949,Active,,,30,,,2017-04-05
+V10095,CYPRESS LUBRICANTS LLC,Cypress,TX,67-9129949,Active,,,30,,,2022-08-25
+V10096,CYPRESS LUBRICANTS LLC,Cypress,TX,67-9129949,Active,,,30,,,2020-01-22
+V10097,Acadiana Oil & Chemical Co,Lafayette,LA,40-3679994,Active,,,30,,,2015-04-29
+V10098,Gulf Lubricants & Supply Inc,Texas City,TX,87-9869860,Active,,,30,,,2017-08-01
+V10099,Gul Lubricants and Supply,Texas City,TX,87-9869860,Active,,,30,,,2019-05-30

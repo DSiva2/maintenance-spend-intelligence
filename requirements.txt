@@ -1,0 +1,13 @@
+pandas
+numpy
+requests
+python-dotenv
+scikit-learn
+statsmodels
+pulp
+rapidfuzz
+duckdb
+matplotlib
+plotly
+jupyter
+openpyxl

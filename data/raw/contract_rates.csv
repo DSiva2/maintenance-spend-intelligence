@@ -1,0 +1,403 @@
+contract_id,rate_year,item_code,material_number,description,unit,contract_rate
+CTR-2023-001,2023,C01-01,,Centrifugal Pump Overhaul Service,JOB,16200.0
+CTR-2023-001,2024,C01-01,,Centrifugal Pump Overhaul Service,JOB,16848.0
+CTR-2023-001,2025,C01-01,,Centrifugal Pump Overhaul Service,JOB,17521.92
+CTR-2023-001,2023,C01-02,,Pump Mechanical Seal Replacement Service,JOB,3780.0
+CTR-2023-001,2024,C01-02,,Pump Mechanical Seal Replacement Service,JOB,3931.2
+CTR-2023-001,2025,C01-02,,Pump Mechanical Seal Replacement Service,JOB,4088.45
+CTR-2023-001,2023,C01-03,,Compressor Valve Overhaul Service,JOB,8550.0
+CTR-2023-001,2024,C01-03,,Compressor Valve Overhaul Service,JOB,8892.0
+CTR-2023-001,2025,C01-03,,Compressor Valve Overhaul Service,JOB,9247.68
+CTR-2023-001,2023,C01-04,,Pump Bearing Replacement Service,JOB,2790.0
+CTR-2023-001,2024,C01-04,,Pump Bearing Replacement Service,JOB,2901.6
+CTR-2023-001,2025,C01-04,,Pump Bearing Replacement Service,JOB,3017.66
+CTR-2023-001,2023,C01-05,,Rotating Equipment Field Service Technician,HR,121.5
+CTR-2023-001,2024,C01-05,,Rotating Equipment Field Service Technician,HR,126.36
+CTR-2023-001,2025,C01-05,,Rotating Equipment Field Service Technician,HR,131.41
+CTR-2023-001,2023,C01-06,,Pump Shaft Laser Alignment Service,JOB,1260.0
+CTR-2023-001,2024,C01-06,,Pump Shaft Laser Alignment Service,JOB,1310.4
+CTR-2023-001,2025,C01-06,,Pump Shaft Laser Alignment Service,JOB,1362.82
+CTR-2023-002,2023,C01-01,,Centrifugal Pump Overhaul Service,JOB,16740.0
+CTR-2023-002,2024,C01-01,,Centrifugal Pump Overhaul Service,JOB,17409.6
+CTR-2023-002,2025,C01-01,,Centrifugal Pump Overhaul Service,JOB,18105.98
+CTR-2023-002,2023,C01-02,,Pump Mechanical Seal Replacement Service,JOB,3906.0
+CTR-2023-002,2024,C01-02,,Pump Mechanical Seal Replacement Service,JOB,4062.24
+CTR-2023-002,2025,C01-02,,Pump Mechanical Seal Replacement Service,JOB,4224.73
+CTR-2023-002,2023,C01-03,,Compressor Valve Overhaul Service,JOB,8835.0
+CTR-2023-002,2024,C01-03,,Compressor Valve Overhaul Service,JOB,9188.4
+CTR-2023-002,2025,C01-03,,Compressor Valve Overhaul Service,JOB,9555.94
+CTR-2023-002,2023,C01-04,,Pump Bearing Replacement Service,JOB,2883.0
+CTR-2023-002,2024,C01-04,,Pump Bearing Replacement Service,JOB,2998.32
+CTR-2023-002,2025,C01-04,,Pump Bearing Replacement Service,JOB,3118.25
+CTR-2023-002,2023,C01-05,,Rotating Equipment Field Service Technician,HR,125.55
+CTR-2023-002,2024,C01-05,,Rotating Equipment Field Service Technician,HR,130.57
+CTR-2023-002,2025,C01-05,,Rotating Equipment Field Service Technician,HR,135.79
+CTR-2023-002,2023,C01-06,,Pump Shaft Laser Alignment Service,JOB,1302.0
+CTR-2023-002,2024,C01-06,,Pump Shaft Laser Alignment Service,JOB,1354.08
+CTR-2023-002,2025,C01-06,,Pump Shaft Laser Alignment Service,JOB,1408.24
+CTR-2023-003,2023,C02-01,M100222,Gate Valve 2in Carbon Steel 300# RF,EA,558.0
+CTR-2023-003,2024,C02-01,M100222,Gate Valve 2in Carbon Steel 300# RF,EA,580.32
+CTR-2023-003,2025,C02-01,M100222,Gate Valve 2in Carbon Steel 300# RF,EA,587.44
+CTR-2023-003,2023,C02-02,M100259,Gate Valve 6in Carbon Steel 300# RF,EA,1665.0
+CTR-2023-003,2024,C02-02,M100259,Gate Valve 6in Carbon Steel 300# RF,EA,1731.6
+CTR-2023-003,2025,C02-02,M100259,Gate Valve 6in Carbon Steel 300# RF,EA,1752.83
+CTR-2023-003,2023,C02-03,M100296,Globe Valve 4in Carbon Steel 150# RF,EA,1260.0
+CTR-2023-003,2024,C02-03,M100296,Globe Valve 4in Carbon Steel 150# RF,EA,1310.4
+CTR-2023-003,2025,C02-03,M100296,Globe Valve 4in Carbon Steel 150# RF,EA,1326.47
+CTR-2023-003,2023,C02-04,M100333,Ball Valve 1in Stainless 800# SW,EA,279.0
+CTR-2023-003,2024,C02-04,M100333,Ball Valve 1in Stainless 800# SW,EA,290.16
+CTR-2023-003,2025,C02-04,M100333,Ball Valve 1in Stainless 800# SW,EA,293.72
+CTR-2023-003,2023,C02-05,M100370,Ball Valve 3in Carbon Steel 150# RF,EA,882.0
+CTR-2023-003,2024,C02-05,M100370,Ball Valve 3in Carbon Steel 150# RF,EA,917.28
+CTR-2023-003,2025,C02-05,M100370,Ball Valve 3in Carbon Steel 150# RF,EA,928.53
+CTR-2023-003,2023,C02-06,M100407,Check Valve 4in Carbon Steel 300# RF,EA,1125.0
+CTR-2023-003,2024,C02-06,M100407,Check Valve 4in Carbon Steel 300# RF,EA,1170.0
+CTR-2023-003,2025,C02-06,M100407,Check Valve 4in Carbon Steel 300# RF,EA,1184.35
+CTR-2023-003,2023,C02-07,M100444,Control Valve 3in Globe with Actuator,EA,13050.0
+CTR-2023-003,2024,C02-07,M100444,Control Valve 3in Globe with Actuator,EA,13572.0
+CTR-2023-003,2025,C02-07,M100444,Control Valve 3in Globe with Actuator,EA,13738.43
+CTR-2023-003,2023,C02-08,M100481,Pressure Relief Valve 1x2in,EA,2340.0
+CTR-2023-003,2024,C02-08,M100481,Pressure Relief Valve 1x2in,EA,2433.6
+CTR-2023-003,2025,C02-08,M100481,Pressure Relief Valve 1x2in,EA,2463.44
+CTR-2023-003,2023,C02-09,M100518,Butterfly Valve 8in 150# Wafer,EA,1530.0
+CTR-2023-003,2024,C02-09,M100518,Butterfly Valve 8in 150# Wafer,EA,1591.2
+CTR-2023-003,2025,C02-09,M100518,Butterfly Valve 8in 150# Wafer,EA,1610.71
+CTR-2023-004,2023,C02-01,M100222,Gate Valve 2in Carbon Steel 300# RF,EA,576.6
+CTR-2023-004,2024,C02-01,M100222,Gate Valve 2in Carbon Steel 300# RF,EA,599.66
+CTR-2023-004,2025,C02-01,M100222,Gate Valve 2in Carbon Steel 300# RF,EA,607.02
+CTR-2023-004,2023,C02-02,M100259,Gate Valve 6in Carbon Steel 300# RF,EA,1720.5
+CTR-2023-004,2024,C02-02,M100259,Gate Valve 6in Carbon Steel 300# RF,EA,1789.32
+CTR-2023-004,2025,C02-02,M100259,Gate Valve 6in Carbon Steel 300# RF,EA,1811.26
+CTR-2023-004,2023,C02-03,M100296,Globe Valve 4in Carbon Steel 150# RF,EA,1302.0
+CTR-2023-004,2024,C02-03,M100296,Globe Valve 4in Carbon Steel 150# RF,EA,1354.08
+CTR-2023-004,2025,C02-03,M100296,Globe Valve 4in Carbon Steel 150# RF,EA,1370.69
+CTR-2023-004,2023,C02-04,M100333,Ball Valve 1in Stainless 800# SW,EA,288.3
+CTR-2023-004,2024,C02-04,M100333,Ball Valve 1in Stainless 800# SW,EA,299.83
+CTR-2023-004,2025,C02-04,M100333,Ball Valve 1in Stainless 800# SW,EA,303.51
+CTR-2023-004,2023,C02-05,M100370,Ball Valve 3in Carbon Steel 150# RF,EA,911.4
+CTR-2023-004,2024,C02-05,M100370,Ball Valve 3in Carbon Steel 150# RF,EA,947.86
+CTR-2023-004,2025,C02-05,M100370,Ball Valve 3in Carbon Steel 150# RF,EA,959.48
+CTR-2023-004,2023,C02-06,M100407,Check Valve 4in Carbon Steel 300# RF,EA,1162.5
+CTR-2023-004,2024,C02-06,M100407,Check Valve 4in Carbon Steel 300# RF,EA,1209.0
+CTR-2023-004,2025,C02-06,M100407,Check Valve 4in Carbon Steel 300# RF,EA,1223.83
+CTR-2023-004,2023,C02-07,M100444,Control Valve 3in Globe with Actuator,EA,13485.0
+CTR-2023-004,2024,C02-07,M100444,Control Valve 3in Globe with Actuator,EA,14024.4
+CTR-2023-004,2025,C02-07,M100444,Control Valve 3in Globe with Actuator,EA,14196.38
+CTR-2023-004,2023,C02-08,M100481,Pressure Relief Valve 1x2in,EA,2418.0
+CTR-2023-004,2024,C02-08,M100481,Pressure Relief Valve 1x2in,EA,2514.72
+CTR-2023-004,2025,C02-08,M100481,Pressure Relief Valve 1x2in,EA,2545.56
+CTR-2023-004,2023,C02-09,M100518,Butterfly Valve 8in 150# Wafer,EA,1581.0
+CTR-2023-004,2024,C02-09,M100518,Butterfly Valve 8in 150# Wafer,EA,1644.24
+CTR-2023-004,2025,C02-09,M100518,Butterfly Valve 8in 150# Wafer,EA,1664.4
+CTR-2023-005,2023,C03-01,M100555,Pipe 2in Sch 40 Carbon Steel Seamless 21ft,EA,85.5
+CTR-2023-005,2024,C03-01,M100555,Pipe 2in Sch 40 Carbon Steel Seamless 21ft,EA,85.5
+CTR-2023-005,2025,C03-01,M100555,Pipe 2in Sch 40 Carbon Steel Seamless 21ft,EA,85.5
+CTR-2023-005,2023,C03-02,M100592,Pipe 6in Sch 40 Carbon Steel Seamless 21ft,EA,468.0
+CTR-2023-005,2024,C03-02,M100592,Pipe 6in Sch 40 Carbon Steel Seamless 21ft,EA,468.0
+CTR-2023-005,2025,C03-02,M100592,Pipe 6in Sch 40 Carbon Steel Seamless 21ft,EA,468.0
+CTR-2023-005,2023,C03-03,M100629,Pipe 4in Sch 80 Stainless 316 21ft,EA,1305.0
+CTR-2023-005,2024,C03-03,M100629,Pipe 4in Sch 80 Stainless 316 21ft,EA,1305.0
+CTR-2023-005,2025,C03-03,M100629,Pipe 4in Sch 80 Stainless 316 21ft,EA,1305.0
+CTR-2023-005,2023,C03-04,M100666,Weld Neck Flange 4in 300# Carbon Steel,EA,126.0
+CTR-2023-005,2024,C03-04,M100666,Weld Neck Flange 4in 300# Carbon Steel,EA,126.0
+CTR-2023-005,2025,C03-04,M100666,Weld Neck Flange 4in 300# Carbon Steel,EA,126.0
+CTR-2023-005,2023,C03-05,M100703,Elbow 90 Degree 4in Sch 40 Carbon Steel,EA,43.2
+CTR-2023-005,2024,C03-05,M100703,Elbow 90 Degree 4in Sch 40 Carbon Steel,EA,43.2
+CTR-2023-005,2025,C03-05,M100703,Elbow 90 Degree 4in Sch 40 Carbon Steel,EA,43.2
+CTR-2023-005,2023,C03-06,M100740,Tee 6in Sch 40 Carbon Steel,EA,144.0
+CTR-2023-005,2024,C03-06,M100740,Tee 6in Sch 40 Carbon Steel,EA,144.0
+CTR-2023-005,2025,C03-06,M100740,Tee 6in Sch 40 Carbon Steel,EA,144.0
+CTR-2023-005,2023,C03-07,M100777,Stud Bolt B7 3/4in x 5in with 2 Nuts,EA,5.85
+CTR-2023-005,2024,C03-07,M100777,Stud Bolt B7 3/4in x 5in with 2 Nuts,EA,5.85
+CTR-2023-005,2025,C03-07,M100777,Stud Bolt B7 3/4in x 5in with 2 Nuts,EA,5.85
+CTR-2023-006,2023,C03-01,M100555,Pipe 2in Sch 40 Carbon Steel Seamless 21ft,EA,88.35
+CTR-2023-006,2024,C03-01,M100555,Pipe 2in Sch 40 Carbon Steel Seamless 21ft,EA,88.35
+CTR-2023-006,2025,C03-01,M100555,Pipe 2in Sch 40 Carbon Steel Seamless 21ft,EA,88.35
+CTR-2023-006,2023,C03-02,M100592,Pipe 6in Sch 40 Carbon Steel Seamless 21ft,EA,483.6
+CTR-2023-006,2024,C03-02,M100592,Pipe 6in Sch 40 Carbon Steel Seamless 21ft,EA,483.6
+CTR-2023-006,2025,C03-02,M100592,Pipe 6in Sch 40 Carbon Steel Seamless 21ft,EA,483.6
+CTR-2023-006,2023,C03-03,M100629,Pipe 4in Sch 80 Stainless 316 21ft,EA,1348.5
+CTR-2023-006,2024,C03-03,M100629,Pipe 4in Sch 80 Stainless 316 21ft,EA,1348.5
+CTR-2023-006,2025,C03-03,M100629,Pipe 4in Sch 80 Stainless 316 21ft,EA,1348.5
+CTR-2023-006,2023,C03-04,M100666,Weld Neck Flange 4in 300# Carbon Steel,EA,130.2
+CTR-2023-006,2024,C03-04,M100666,Weld Neck Flange 4in 300# Carbon Steel,EA,130.2
+CTR-2023-006,2025,C03-04,M100666,Weld Neck Flange 4in 300# Carbon Steel,EA,130.2
+CTR-2023-006,2023,C03-05,M100703,Elbow 90 Degree 4in Sch 40 Carbon Steel,EA,44.64
+CTR-2023-006,2024,C03-05,M100703,Elbow 90 Degree 4in Sch 40 Carbon Steel,EA,44.64
+CTR-2023-006,2025,C03-05,M100703,Elbow 90 Degree 4in Sch 40 Carbon Steel,EA,44.64
+CTR-2023-006,2023,C03-06,M100740,Tee 6in Sch 40 Carbon Steel,EA,148.8
+CTR-2023-006,2024,C03-06,M100740,Tee 6in Sch 40 Carbon Steel,EA,148.8
+CTR-2023-006,2025,C03-06,M100740,Tee 6in Sch 40 Carbon Steel,EA,148.8
+CTR-2023-006,2023,C03-07,M100777,Stud Bolt B7 3/4in x 5in with 2 Nuts,EA,6.04
+CTR-2023-006,2024,C03-07,M100777,Stud Bolt B7 3/4in x 5in with 2 Nuts,EA,6.04
+CTR-2023-006,2025,C03-07,M100777,Stud Bolt B7 3/4in x 5in with 2 Nuts,EA,6.04
+CTR-2023-007,2023,C04-01,,Pipefitter Straight Time,HR,61.2
+CTR-2023-007,2024,C04-01,,Pipefitter Straight Time,HR,63.65
+CTR-2023-007,2025,C04-01,,Pipefitter Straight Time,HR,66.19
+CTR-2023-007,2023,C04-02,,Pipefitter Overtime,HR,88.2
+CTR-2023-007,2024,C04-02,,Pipefitter Overtime,HR,91.73
+CTR-2023-007,2025,C04-02,,Pipefitter Overtime,HR,95.4
+CTR-2023-007,2023,C04-03,,Welder Straight Time,HR,64.8
+CTR-2023-007,2024,C04-03,,Welder Straight Time,HR,67.39
+CTR-2023-007,2025,C04-03,,Welder Straight Time,HR,70.09
+CTR-2023-007,2023,C04-04,,Millwright Straight Time,HR,66.6
+CTR-2023-007,2024,C04-04,,Millwright Straight Time,HR,69.26
+CTR-2023-007,2025,C04-04,,Millwright Straight Time,HR,72.03
+CTR-2023-007,2023,C04-05,,Mechanical Helper Straight Time,HR,37.8
+CTR-2023-007,2024,C04-05,,Mechanical Helper Straight Time,HR,39.31
+CTR-2023-007,2025,C04-05,,Mechanical Helper Straight Time,HR,40.88
+CTR-2023-007,2023,C04-06,,Foreman Straight Time,HR,76.5
+CTR-2023-007,2024,C04-06,,Foreman Straight Time,HR,79.56
+CTR-2023-007,2025,C04-06,,Foreman Straight Time,HR,82.74
+CTR-2023-008,2023,C04-01,,Pipefitter Straight Time,HR,63.24
+CTR-2023-008,2024,C04-01,,Pipefitter Straight Time,HR,65.77
+CTR-2023-008,2025,C04-01,,Pipefitter Straight Time,HR,68.4
+CTR-2023-008,2023,C04-02,,Pipefitter Overtime,HR,91.14
+CTR-2023-008,2024,C04-02,,Pipefitter Overtime,HR,94.79
+CTR-2023-008,2025,C04-02,,Pipefitter Overtime,HR,98.58
+CTR-2023-008,2023,C04-03,,Welder Straight Time,HR,66.96
+CTR-2023-008,2024,C04-03,,Welder Straight Time,HR,69.64
+CTR-2023-008,2025,C04-03,,Welder Straight Time,HR,72.42
+CTR-2023-008,2023,C04-04,,Millwright Straight Time,HR,68.82
+CTR-2023-008,2024,C04-04,,Millwright Straight Time,HR,71.57
+CTR-2023-008,2025,C04-04,,Millwright Straight Time,HR,74.44
+CTR-2023-008,2023,C04-05,,Mechanical Helper Straight Time,HR,39.06
+CTR-2023-008,2024,C04-05,,Mechanical Helper Straight Time,HR,40.62
+CTR-2023-008,2025,C04-05,,Mechanical Helper Straight Time,HR,42.25
+CTR-2023-008,2023,C04-06,,Foreman Straight Time,HR,79.05
+CTR-2023-008,2024,C04-06,,Foreman Straight Time,HR,82.21
+CTR-2023-008,2025,C04-06,,Foreman Straight Time,HR,85.5
+CTR-2023-009,2023,C05-01,,Scaffold Builder Straight Time,HR,49.5
+CTR-2023-009,2024,C05-01,,Scaffold Builder Straight Time,HR,51.48
+CTR-2023-009,2025,C05-01,,Scaffold Builder Straight Time,HR,53.54
+CTR-2023-009,2023,C05-02,,Scaffold Builder Overtime,HR,72.0
+CTR-2023-009,2024,C05-02,,Scaffold Builder Overtime,HR,74.88
+CTR-2023-009,2025,C05-02,,Scaffold Builder Overtime,HR,77.88
+CTR-2023-009,2023,C05-03,,Scaffold Foreman Straight Time,HR,63.0
+CTR-2023-009,2024,C05-03,,Scaffold Foreman Straight Time,HR,65.52
+CTR-2023-009,2025,C05-03,,Scaffold Foreman Straight Time,HR,68.14
+CTR-2023-009,2023,C05-04,,Scaffold Material Rental Week,WK,855.0
+CTR-2023-009,2024,C05-04,,Scaffold Material Rental Week,WK,889.2
+CTR-2023-009,2025,C05-04,,Scaffold Material Rental Week,WK,924.77
+CTR-2023-010,2023,C05-01,,Scaffold Builder Straight Time,HR,51.15
+CTR-2023-010,2024,C05-01,,Scaffold Builder Straight Time,HR,53.2
+CTR-2023-010,2025,C05-01,,Scaffold Builder Straight Time,HR,55.32
+CTR-2023-010,2023,C05-02,,Scaffold Builder Overtime,HR,74.4
+CTR-2023-010,2024,C05-02,,Scaffold Builder Overtime,HR,77.38
+CTR-2023-010,2025,C05-02,,Scaffold Builder Overtime,HR,80.47
+CTR-2023-010,2023,C05-03,,Scaffold Foreman Straight Time,HR,65.1
+CTR-2023-010,2024,C05-03,,Scaffold Foreman Straight Time,HR,67.7
+CTR-2023-010,2025,C05-03,,Scaffold Foreman Straight Time,HR,70.41
+CTR-2023-010,2023,C05-04,,Scaffold Material Rental Week,WK,883.5
+CTR-2023-010,2024,C05-04,,Scaffold Material Rental Week,WK,918.84
+CTR-2023-010,2025,C05-04,,Scaffold Material Rental Week,WK,955.59
+CTR-2023-011,2023,C06-01,,Insulator Straight Time,HR,52.2
+CTR-2023-011,2024,C06-01,,Insulator Straight Time,HR,54.29
+CTR-2023-011,2025,C06-01,,Insulator Straight Time,HR,56.46
+CTR-2023-011,2023,C06-02,,Insulator Overtime,HR,76.5
+CTR-2023-011,2024,C06-02,,Insulator Overtime,HR,79.56
+CTR-2023-011,2025,C06-02,,Insulator Overtime,HR,82.74
+CTR-2023-011,2023,C06-03,,Insulation Removal Labor,HR,46.8
+CTR-2023-011,2024,C06-03,,Insulation Removal Labor,HR,48.67
+CTR-2023-011,2025,C06-03,,Insulation Removal Labor,HR,50.62
+CTR-2023-012,2023,C06-01,,Insulator Straight Time,HR,53.94
+CTR-2023-012,2024,C06-01,,Insulator Straight Time,HR,56.1
+CTR-2023-012,2025,C06-01,,Insulator Straight Time,HR,58.34
+CTR-2023-012,2023,C06-02,,Insulator Overtime,HR,79.05
+CTR-2023-012,2024,C06-02,,Insulator Overtime,HR,82.21
+CTR-2023-012,2025,C06-02,,Insulator Overtime,HR,85.5
+CTR-2023-012,2023,C06-03,,Insulation Removal Labor,HR,48.36
+CTR-2023-012,2024,C06-03,,Insulation Removal Labor,HR,50.29
+CTR-2023-012,2025,C06-03,,Insulation Removal Labor,HR,52.31
+CTR-2023-013,2023,C07-01,,UT Thickness Inspection Technician,HR,85.5
+CTR-2023-013,2024,C07-01,,UT Thickness Inspection Technician,HR,88.92
+CTR-2023-013,2025,C07-01,,UT Thickness Inspection Technician,HR,92.48
+CTR-2023-013,2023,C07-02,,Radiography Crew Shift,SHIFT,2520.0
+CTR-2023-013,2024,C07-02,,Radiography Crew Shift,SHIFT,2620.8
+CTR-2023-013,2025,C07-02,,Radiography Crew Shift,SHIFT,2725.63
+CTR-2023-013,2023,C07-03,,API 510 Pressure Vessel Inspector,HR,112.5
+CTR-2023-013,2024,C07-03,,API 510 Pressure Vessel Inspector,HR,117.0
+CTR-2023-013,2025,C07-03,,API 510 Pressure Vessel Inspector,HR,121.68
+CTR-2023-013,2023,C07-04,,Phased Array UT Weld Inspection,HR,126.0
+CTR-2023-013,2024,C07-04,,Phased Array UT Weld Inspection,HR,131.04
+CTR-2023-013,2025,C07-04,,Phased Array UT Weld Inspection,HR,136.28
+CTR-2023-013,2023,C07-05,,Heat Exchanger Eddy Current Testing,JOB,5850.0
+CTR-2023-013,2024,C07-05,,Heat Exchanger Eddy Current Testing,JOB,6084.0
+CTR-2023-013,2025,C07-05,,Heat Exchanger Eddy Current Testing,JOB,6327.36
+CTR-2023-014,2023,C07-01,,UT Thickness Inspection Technician,HR,88.35
+CTR-2023-014,2024,C07-01,,UT Thickness Inspection Technician,HR,91.88
+CTR-2023-014,2025,C07-01,,UT Thickness Inspection Technician,HR,95.56
+CTR-2023-014,2023,C07-02,,Radiography Crew Shift,SHIFT,2604.0
+CTR-2023-014,2024,C07-02,,Radiography Crew Shift,SHIFT,2708.16
+CTR-2023-014,2025,C07-02,,Radiography Crew Shift,SHIFT,2816.49
+CTR-2023-014,2023,C07-03,,API 510 Pressure Vessel Inspector,HR,116.25
+CTR-2023-014,2024,C07-03,,API 510 Pressure Vessel Inspector,HR,120.9
+CTR-2023-014,2025,C07-03,,API 510 Pressure Vessel Inspector,HR,125.74
+CTR-2023-014,2023,C07-04,,Phased Array UT Weld Inspection,HR,130.2
+CTR-2023-014,2024,C07-04,,Phased Array UT Weld Inspection,HR,135.41
+CTR-2023-014,2025,C07-04,,Phased Array UT Weld Inspection,HR,140.82
+CTR-2023-014,2023,C07-05,,Heat Exchanger Eddy Current Testing,JOB,6045.0
+CTR-2023-014,2024,C07-05,,Heat Exchanger Eddy Current Testing,JOB,6286.8
+CTR-2023-014,2025,C07-05,,Heat Exchanger Eddy Current Testing,JOB,6538.27
+CTR-2023-015,2023,C08-01,,Hydroblasting Unit 20K PSI with Crew Shift,SHIFT,3780.0
+CTR-2023-015,2024,C08-01,,Hydroblasting Unit 20K PSI with Crew Shift,SHIFT,3931.2
+CTR-2023-015,2025,C08-01,,Hydroblasting Unit 20K PSI with Crew Shift,SHIFT,4088.45
+CTR-2023-015,2023,C08-02,,Vacuum Truck with Operator,HR,148.5
+CTR-2023-015,2024,C08-02,,Vacuum Truck with Operator,HR,154.44
+CTR-2023-015,2025,C08-02,,Vacuum Truck with Operator,HR,160.62
+CTR-2023-015,2023,C08-03,,Heat Exchanger Bundle Cleaning,JOB,7020.0
+CTR-2023-015,2024,C08-03,,Heat Exchanger Bundle Cleaning,JOB,7300.8
+CTR-2023-015,2025,C08-03,,Heat Exchanger Bundle Cleaning,JOB,7592.83
+CTR-2023-015,2023,C08-04,,Tank Cleaning Service,JOB,19800.0
+CTR-2023-015,2024,C08-04,,Tank Cleaning Service,JOB,20592.0
+CTR-2023-015,2025,C08-04,,Tank Cleaning Service,JOB,21415.68
+CTR-2023-016,2023,C08-01,,Hydroblasting Unit 20K PSI with Crew Shift,SHIFT,3906.0
+CTR-2023-016,2024,C08-01,,Hydroblasting Unit 20K PSI with Crew Shift,SHIFT,4062.24
+CTR-2023-016,2025,C08-01,,Hydroblasting Unit 20K PSI with Crew Shift,SHIFT,4224.73
+CTR-2023-016,2023,C08-02,,Vacuum Truck with Operator,HR,153.45
+CTR-2023-016,2024,C08-02,,Vacuum Truck with Operator,HR,159.59
+CTR-2023-016,2025,C08-02,,Vacuum Truck with Operator,HR,165.97
+CTR-2023-016,2023,C08-03,,Heat Exchanger Bundle Cleaning,JOB,7254.0
+CTR-2023-016,2024,C08-03,,Heat Exchanger Bundle Cleaning,JOB,7544.16
+CTR-2023-016,2025,C08-03,,Heat Exchanger Bundle Cleaning,JOB,7845.93
+CTR-2023-016,2023,C08-04,,Tank Cleaning Service,JOB,20460.0
+CTR-2023-016,2024,C08-04,,Tank Cleaning Service,JOB,21278.4
+CTR-2023-016,2025,C08-04,,Tank Cleaning Service,JOB,22129.54
+CTR-2023-017,2023,C09-01,M101739,Pressure Transmitter 0-500 PSI,EA,1485.0
+CTR-2023-017,2024,C09-01,M101739,Pressure Transmitter 0-500 PSI,EA,1530.17
+CTR-2023-017,2025,C09-01,M101739,Pressure Transmitter 0-500 PSI,EA,1576.71
+CTR-2023-017,2023,C09-02,M101776,Thermocouple Type K 12in,EA,130.5
+CTR-2023-017,2024,C09-02,M101776,Thermocouple Type K 12in,EA,134.47
+CTR-2023-017,2025,C09-02,M101776,Thermocouple Type K 12in,EA,138.56
+CTR-2023-017,2023,C09-03,M101813,Electric Motor 50HP TEFC,EA,5580.0
+CTR-2023-017,2024,C09-03,M101813,Electric Motor 50HP TEFC,EA,5749.72
+CTR-2023-017,2025,C09-03,M101813,Electric Motor 50HP TEFC,EA,5924.6
+CTR-2023-017,2023,C09-04,M101850,Variable Frequency Drive 50HP,EA,6660.0
+CTR-2023-017,2024,C09-04,M101850,Variable Frequency Drive 50HP,EA,6862.57
+CTR-2023-017,2025,C09-04,M101850,Variable Frequency Drive 50HP,EA,7071.3
+CTR-2023-017,2023,C09-05,M101887,Cable Tray 12in x 10ft,EA,108.0
+CTR-2023-017,2024,C09-05,M101887,Cable Tray 12in x 10ft,EA,111.28
+CTR-2023-017,2025,C09-05,M101887,Cable Tray 12in x 10ft,EA,114.67
+CTR-2023-017,2023,C09-06,,Instrument Technician Straight Time,HR,70.2
+CTR-2023-017,2024,C09-06,,Instrument Technician Straight Time,HR,72.34
+CTR-2023-017,2025,C09-06,,Instrument Technician Straight Time,HR,74.54
+CTR-2023-018,2023,C09-01,M101739,Pressure Transmitter 0-500 PSI,EA,1534.5
+CTR-2023-018,2024,C09-01,M101739,Pressure Transmitter 0-500 PSI,EA,1581.17
+CTR-2023-018,2025,C09-01,M101739,Pressure Transmitter 0-500 PSI,EA,1629.27
+CTR-2023-018,2023,C09-02,M101776,Thermocouple Type K 12in,EA,134.85
+CTR-2023-018,2024,C09-02,M101776,Thermocouple Type K 12in,EA,138.95
+CTR-2023-018,2025,C09-02,M101776,Thermocouple Type K 12in,EA,143.18
+CTR-2023-018,2023,C09-03,M101813,Electric Motor 50HP TEFC,EA,5766.0
+CTR-2023-018,2024,C09-03,M101813,Electric Motor 50HP TEFC,EA,5941.38
+CTR-2023-018,2025,C09-03,M101813,Electric Motor 50HP TEFC,EA,6122.09
+CTR-2023-018,2023,C09-04,M101850,Variable Frequency Drive 50HP,EA,6882.0
+CTR-2023-018,2024,C09-04,M101850,Variable Frequency Drive 50HP,EA,7091.32
+CTR-2023-018,2025,C09-04,M101850,Variable Frequency Drive 50HP,EA,7307.01
+CTR-2023-018,2023,C09-05,M101887,Cable Tray 12in x 10ft,EA,111.6
+CTR-2023-018,2024,C09-05,M101887,Cable Tray 12in x 10ft,EA,114.99
+CTR-2023-018,2025,C09-05,M101887,Cable Tray 12in x 10ft,EA,118.49
+CTR-2023-018,2023,C09-06,,Instrument Technician Straight Time,HR,72.54
+CTR-2023-018,2024,C09-06,,Instrument Technician Straight Time,HR,74.75
+CTR-2023-018,2025,C09-06,,Instrument Technician Straight Time,HR,77.02
+CTR-2023-019,2023,C10-01,,Crawler Crane 100T with Operator Day,DAY,4680.0
+CTR-2023-019,2024,C10-01,,Crawler Crane 100T with Operator Day,DAY,4822.35
+CTR-2023-019,2025,C10-01,,Crawler Crane 100T with Operator Day,DAY,4969.02
+CTR-2023-019,2023,C10-02,,Hydraulic Crane 40T with Operator Day,DAY,2160.0
+CTR-2023-019,2024,C10-02,,Hydraulic Crane 40T with Operator Day,DAY,2225.7
+CTR-2023-019,2025,C10-02,,Hydraulic Crane 40T with Operator Day,DAY,2293.4
+CTR-2023-019,2023,C10-03,,Air Compressor 375 CFM Rental Week,WK,990.0
+CTR-2023-019,2024,C10-03,,Air Compressor 375 CFM Rental Week,WK,1020.11
+CTR-2023-019,2025,C10-03,,Air Compressor 375 CFM Rental Week,WK,1051.14
+CTR-2023-019,2023,C10-04,,Diesel Generator 200kW Rental Week,WK,1440.0
+CTR-2023-019,2024,C10-04,,Diesel Generator 200kW Rental Week,WK,1483.8
+CTR-2023-019,2025,C10-04,,Diesel Generator 200kW Rental Week,WK,1528.93
+CTR-2023-019,2023,C10-05,,Manlift 60ft Rental Week,WK,855.0
+CTR-2023-019,2024,C10-05,,Manlift 60ft Rental Week,WK,881.01
+CTR-2023-019,2025,C10-05,,Manlift 60ft Rental Week,WK,907.8
+CTR-2023-020,2023,C10-01,,Crawler Crane 100T with Operator Day,DAY,4836.0
+CTR-2023-020,2024,C10-01,,Crawler Crane 100T with Operator Day,DAY,4983.09
+CTR-2023-020,2025,C10-01,,Crawler Crane 100T with Operator Day,DAY,5134.66
+CTR-2023-020,2023,C10-02,,Hydraulic Crane 40T with Operator Day,DAY,2232.0
+CTR-2023-020,2024,C10-02,,Hydraulic Crane 40T with Operator Day,DAY,2299.89
+CTR-2023-020,2025,C10-02,,Hydraulic Crane 40T with Operator Day,DAY,2369.84
+CTR-2023-020,2023,C10-03,,Air Compressor 375 CFM Rental Week,WK,1023.0
+CTR-2023-020,2024,C10-03,,Air Compressor 375 CFM Rental Week,WK,1054.12
+CTR-2023-020,2025,C10-03,,Air Compressor 375 CFM Rental Week,WK,1086.18
+CTR-2023-020,2023,C10-04,,Diesel Generator 200kW Rental Week,WK,1488.0
+CTR-2023-020,2024,C10-04,,Diesel Generator 200kW Rental Week,WK,1533.26
+CTR-2023-020,2025,C10-04,,Diesel Generator 200kW Rental Week,WK,1579.89
+CTR-2023-020,2023,C10-05,,Manlift 60ft Rental Week,WK,883.5
+CTR-2023-020,2024,C10-05,,Manlift 60ft Rental Week,WK,910.37
+CTR-2023-020,2025,C10-05,,Manlift 60ft Rental Week,WK,938.06
+CTR-2023-021,2023,C11-01,M102146,Ball Bearing 6312-2RS,EA,76.5
+CTR-2023-021,2024,C11-01,M102146,Ball Bearing 6312-2RS,EA,79.56
+CTR-2023-021,2025,C11-01,M102146,Ball Bearing 6312-2RS,EA,82.74
+CTR-2023-021,2023,C11-02,M102183,Mechanical Seal Cartridge 2.5in,EA,2160.0
+CTR-2023-021,2024,C11-02,M102183,Mechanical Seal Cartridge 2.5in,EA,2246.4
+CTR-2023-021,2025,C11-02,M102183,Mechanical Seal Cartridge 2.5in,EA,2336.26
+CTR-2023-021,2023,C11-03,M102220,Spiral Wound Gasket 4in 300#,EA,19.8
+CTR-2023-021,2024,C11-03,M102220,Spiral Wound Gasket 4in 300#,EA,20.59
+CTR-2023-021,2025,C11-03,M102220,Spiral Wound Gasket 4in 300#,EA,21.42
+CTR-2023-021,2023,C11-04,M102257,O-Ring Kit Viton,EA,126.0
+CTR-2023-021,2024,C11-04,M102257,O-Ring Kit Viton,EA,131.04
+CTR-2023-021,2025,C11-04,M102257,O-Ring Kit Viton,EA,136.28
+CTR-2023-021,2023,C11-05,M102294,Pump Impeller 10in Stainless,EA,3420.0
+CTR-2023-021,2024,C11-05,M102294,Pump Impeller 10in Stainless,EA,3556.8
+CTR-2023-021,2025,C11-05,M102294,Pump Impeller 10in Stainless,EA,3699.07
+CTR-2023-021,2023,C11-06,M102331,Coupling Insert Elastomer,EA,189.0
+CTR-2023-021,2024,C11-06,M102331,Coupling Insert Elastomer,EA,196.56
+CTR-2023-021,2025,C11-06,M102331,Coupling Insert Elastomer,EA,204.42
+CTR-2023-021,2023,C11-07,M102368,V-Belt B-Section,EA,25.2
+CTR-2023-021,2024,C11-07,M102368,V-Belt B-Section,EA,26.21
+CTR-2023-021,2025,C11-07,M102368,V-Belt B-Section,EA,27.26
+CTR-2023-022,2023,C11-01,M102146,Ball Bearing 6312-2RS,EA,79.05
+CTR-2023-022,2024,C11-01,M102146,Ball Bearing 6312-2RS,EA,82.21
+CTR-2023-022,2025,C11-01,M102146,Ball Bearing 6312-2RS,EA,85.5
+CTR-2023-022,2023,C11-02,M102183,Mechanical Seal Cartridge 2.5in,EA,2232.0
+CTR-2023-022,2024,C11-02,M102183,Mechanical Seal Cartridge 2.5in,EA,2321.28
+CTR-2023-022,2025,C11-02,M102183,Mechanical Seal Cartridge 2.5in,EA,2414.13
+CTR-2023-022,2023,C11-03,M102220,Spiral Wound Gasket 4in 300#,EA,20.46
+CTR-2023-022,2024,C11-03,M102220,Spiral Wound Gasket 4in 300#,EA,21.28
+CTR-2023-022,2025,C11-03,M102220,Spiral Wound Gasket 4in 300#,EA,22.13
+CTR-2023-022,2023,C11-04,M102257,O-Ring Kit Viton,EA,130.2
+CTR-2023-022,2024,C11-04,M102257,O-Ring Kit Viton,EA,135.41
+CTR-2023-022,2025,C11-04,M102257,O-Ring Kit Viton,EA,140.82
+CTR-2023-022,2023,C11-05,M102294,Pump Impeller 10in Stainless,EA,3534.0
+CTR-2023-022,2024,C11-05,M102294,Pump Impeller 10in Stainless,EA,3675.36
+CTR-2023-022,2025,C11-05,M102294,Pump Impeller 10in Stainless,EA,3822.37
+CTR-2023-022,2023,C11-06,M102331,Coupling Insert Elastomer,EA,195.3
+CTR-2023-022,2024,C11-06,M102331,Coupling Insert Elastomer,EA,203.11
+CTR-2023-022,2025,C11-06,M102331,Coupling Insert Elastomer,EA,211.24
+CTR-2023-022,2023,C11-07,M102368,V-Belt B-Section,EA,26.04
+CTR-2023-022,2024,C11-07,M102368,V-Belt B-Section,EA,27.08
+CTR-2023-022,2025,C11-07,M102368,V-Belt B-Section,EA,28.16
+CTR-2023-023,2023,C12-01,M102405,Turbine Oil ISO 32 Drum 55gal,DR,1035.0
+CTR-2023-023,2024,C12-01,M102405,Turbine Oil ISO 32 Drum 55gal,DR,1066.48
+CTR-2023-023,2025,C12-01,M102405,Turbine Oil ISO 32 Drum 55gal,DR,1098.92
+CTR-2023-023,2023,C12-02,M102442,Synthetic Gear Oil ISO 220 Pail 5gal,PL,234.0
+CTR-2023-023,2024,C12-02,M102442,Synthetic Gear Oil ISO 220 Pail 5gal,PL,241.12
+CTR-2023-023,2025,C12-02,M102442,Synthetic Gear Oil ISO 220 Pail 5gal,PL,248.45
+CTR-2023-023,2023,C12-03,M102479,Grease EP2 Tube Case,CS,85.5
+CTR-2023-023,2024,C12-03,M102479,Grease EP2 Tube Case,CS,88.1
+CTR-2023-023,2025,C12-03,M102479,Grease EP2 Tube Case,CS,90.78
+CTR-2023-023,2023,C12-04,M102516,Hydraulic Oil AW46 Drum 55gal,DR,882.0
+CTR-2023-023,2024,C12-04,M102516,Hydraulic Oil AW46 Drum 55gal,DR,908.83
+CTR-2023-023,2025,C12-04,M102516,Hydraulic Oil AW46 Drum 55gal,DR,936.47
+CTR-2023-023,2023,C12-05,M102553,Degreaser Solvent Drum 55gal,DR,648.0
+CTR-2023-023,2024,C12-05,M102553,Degreaser Solvent Drum 55gal,DR,667.71
+CTR-2023-023,2025,C12-05,M102553,Degreaser Solvent Drum 55gal,DR,688.02
+CTR-2023-024,2023,C12-01,M102405,Turbine Oil ISO 32 Drum 55gal,DR,1069.5
+CTR-2023-024,2024,C12-01,M102405,Turbine Oil ISO 32 Drum 55gal,DR,1102.03
+CTR-2023-024,2025,C12-01,M102405,Turbine Oil ISO 32 Drum 55gal,DR,1135.55
+CTR-2023-024,2023,C12-02,M102442,Synthetic Gear Oil ISO 220 Pail 5gal,PL,241.8
+CTR-2023-024,2024,C12-02,M102442,Synthetic Gear Oil ISO 220 Pail 5gal,PL,249.15
+CTR-2023-024,2025,C12-02,M102442,Synthetic Gear Oil ISO 220 Pail 5gal,PL,256.73
+CTR-2023-024,2023,C12-03,M102479,Grease EP2 Tube Case,CS,88.35
+CTR-2023-024,2024,C12-03,M102479,Grease EP2 Tube Case,CS,91.04
+CTR-2023-024,2025,C12-03,M102479,Grease EP2 Tube Case,CS,93.81
+CTR-2023-024,2023,C12-04,M102516,Hydraulic Oil AW46 Drum 55gal,DR,911.4
+CTR-2023-024,2024,C12-04,M102516,Hydraulic Oil AW46 Drum 55gal,DR,939.12
+CTR-2023-024,2025,C12-04,M102516,Hydraulic Oil AW46 Drum 55gal,DR,967.69
+CTR-2023-024,2023,C12-05,M102553,Degreaser Solvent Drum 55gal,DR,669.6
+CTR-2023-024,2024,C12-05,M102553,Degreaser Solvent Drum 55gal,DR,689.97
+CTR-2023-024,2025,C12-05,M102553,Degreaser Solvent Drum 55gal,DR,710.95
