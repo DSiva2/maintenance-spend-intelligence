@@ -4,14 +4,21 @@ All internal data is synthetic, for the fictional company GulfChem Industries, c
 
 ## How the tables connect
 
-```
-sites ──┐
-        ├── po_lines ── goods_receipts      (po_number + po_line)
-vendor_master ──┤  └──── invoices            (po_number + po_line)
-        │       └── contract_id ── contracts ── contract_rates
-categories ─────┘
-item_master ── material_number ── po_lines, contract_rates, wo_parts
-equipment ── work_orders ── wo_parts
+```mermaid
+erDiagram
+    SITES ||--o{ PO_LINES : "site_id"
+    VENDOR_MASTER ||--o{ PO_LINES : "vendor_id"
+    CATEGORIES ||--o{ PO_LINES : "category_code"
+    CONTRACTS ||--o{ PO_LINES : "contract_id"
+    CONTRACTS ||--|{ CONTRACT_RATES : "contract_id"
+    VENDOR_MASTER ||--o{ CONTRACTS : "vendor_id"
+    PO_LINES ||--|| GOODS_RECEIPTS : "po_number + po_line"
+    PO_LINES ||--|{ INVOICES : "po_number + po_line"
+    ITEM_MASTER ||--o{ PO_LINES : "material_number"
+    ITEM_MASTER ||--o{ CONTRACT_RATES : "material_number"
+    ITEM_MASTER ||--o{ WO_PARTS : "material_number"
+    EQUIPMENT ||--o{ WORK_ORDERS : "equipment_id"
+    WORK_ORDERS ||--|{ WO_PARTS : "wo_id"
 ```
 
 ## sites.csv — the five plants

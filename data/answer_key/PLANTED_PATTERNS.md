@@ -2,7 +2,7 @@
 
 These are the problems deliberately built into the synthetic data. Use this file **after** your analysis, to check whether your methods found them. In interviews, be open that the data is synthetic and these patterns were designed; what you are demonstrating is the method for finding, explaining, and acting on them.
 
-`po_line_truth.csv` flags every affected PO line in the `flags` column.
+`po_line_truth.csv` flags every affected PO line in the `pattern_flags` column.
 
 ## Spend and contract leakage
 
@@ -47,8 +47,9 @@ These are the problems deliberately built into the synthetic data. Use this file
 | Missing category code | About 15% of PO lines |
 | Missing material number | About 10% of material lines (all service lines have none by design) |
 | Inconsistent, abbreviated, and misspelled descriptions | Most lines |
+| Vague descriptions with no item detail ("MISC LABOR", "SERVICES RENDERED") | About 3% of lines |
 | Plant names typed several ways | About 4% of lines |
-| Inconsistent units of measure ("EA", "Each", "ea") | About 15% of lines |
+| Inconsistent units of measure ("EA", "Each", "ea", "LS") | About 7% of lines |
 | Missing requisition dates | About 1% of lines |
 | Decimal-point price errors (price 100 times too high) | A handful of lines |
 | Missing tax IDs in the vendor master | About 20% of vendor records |

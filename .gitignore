@@ -4,3 +4,7 @@ venv/
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+
+# Rebuilt by src/build_database.py
+data/gulfchem.duckdb
+data/gulfchem.duckdb.wal

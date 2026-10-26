@@ -316,11 +316,17 @@ ABBREVIATIONS = {
     "Foreman": "FMN", "Helper": "HLPR", "Hydraulic": "HYD", "Equipment": "EQUIP",
     "Cleaning": "CLNG", "Overhaul": "OVHL", "Seamless": "SMLS", "Exchanger": "EXCH",
 }
+VAGUE_DESCRIPTIONS = {
+    "material": ["MISC MATERIALS", "MATERIALS PER QUOTE", "PARTS SEE ATTACHED", "SUPPLIES"],
+    "service": ["LABOR PER TICKET", "SERVICES RENDERED", "FIELD SERVICE PER QUOTE", "MISC LABOR"],
+}
 NOISE_SUFFIXES = ["URGENT", "RUSH", "PER QUOTE Q{n}", "REF WO#{n}", "PER CONTRACT", "SEE ATTACHED"]
 
 
-def messify(text: str, date: pd.Timestamp, in_turnaround: bool) -> str:
+def messify(text: str, date: pd.Timestamp, in_turnaround: bool, kind: str) -> str:
     """Turn a clean description into the kind of text people actually type."""
+    if rng.random() < 0.03:  # some people type almost nothing useful
+        return rng.choice(VAGUE_DESCRIPTIONS[kind])
     out = text
     for full, short in ABBREVIATIONS.items():
         if full in out and rng.random() < 0.5:
@@ -348,7 +354,7 @@ def messify(text: str, date: pd.Timestamp, in_turnaround: bool) -> str:
     return out
 
 
-UNIT_VARIANTS = {"EA": ["EA", "Each", "ea"], "HR": ["HR", "HRS", "Hour"], "JOB": ["JOB", "LS"],
+UNIT_VARIANTS = {"EA": ["EA", "Each", "ea"], "HR": ["HR", "HRS", "Hour"], "JOB": ["JOB", "Job"],
                  "LOT": ["LOT", "LS"], "WK": ["WK", "Week"], "DAY": ["DAY", "DY"],
                  "SHIFT": ["SHIFT", "SHFT"], "DR": ["DR", "Drum"], "PL": ["PL", "Pail"],
                  "CS": ["CS", "Case"]}
@@ -621,7 +627,7 @@ def generate_transactions(vm, vmap, contracts, rates):
                             requisition_date=req_date.date() if rng.random() > 0.01 else None,
                             po_date=po_date.date(), category_code=category_code,
                             material_number=material_number,
-                            description=messify(it["description"], po_date, in_ta),
+                            description=messify(it["description"], po_date, in_ta, c["kind"]),
                             quantity=qty, unit=messy_unit(it["unit"]),
                             unit_price=recorded_price,
                             line_amount=round(qty * recorded_price, 2),
@@ -632,7 +638,7 @@ def generate_transactions(vm, vmap, contracts, rates):
                             po_number=po_number, po_line=line_no * 10, true_site=site_id,
                             true_supplier_id=s["supplier_id"], true_category=cat,
                             true_item_code=it["item_code"], true_unit_price=unit_price,
-                            in_turnaround_window=in_ta, flags=";".join(flags) or None,
+                            in_turnaround_window=in_ta, pattern_flags=";".join(flags) or None,
                         ))
 
                         # ---- goods receipt ----
@@ -660,17 +666,17 @@ def generate_transactions(vm, vmap, contracts, rates):
                         cost_basis, markup_billed = None, None
                         if qty_received < qty and rng.random() < 0.3:
                             inv_qty = qty  # billed for goods never received
-                            truth_rows[-1]["flags"] = (truth_rows[-1]["flags"] or "") + ";billed_undelivered"
+                            truth_rows[-1]["pattern_flags"] = (truth_rows[-1]["pattern_flags"] or "") + ";billed_undelivered"
                         if it["passthrough"]:
                             cost_basis = round(cost * rng.uniform(0.9, 1.1), 2)
                             markup_billed = MARKUP_CAP
                             if s["name"] == P_SCAFFOLD and po_date >= SCAFFOLD_OVERBILL_START:
                                 markup_billed = SCAFFOLD_BILLED_MARKUP
-                                truth_rows[-1]["flags"] = (truth_rows[-1]["flags"] or "") + ";markup_over_cap"
+                                truth_rows[-1]["pattern_flags"] = (truth_rows[-1]["pattern_flags"] or "") + ";markup_over_cap"
                             inv_price = round(cost_basis * (1 + markup_billed), 2)
                         elif rng.random() < (0.10 if s["name"] == P_IRONCLAD else 0.015):
                             inv_price = round(unit_price * rng.uniform(1.03, 1.12), 2)
-                            truth_rows[-1]["flags"] = (truth_rows[-1]["flags"] or "") + ";invoice_price_over_po"
+                            truth_rows[-1]["pattern_flags"] = (truth_rows[-1]["pattern_flags"] or "") + ";invoice_price_over_po"
                         inv_date = actual + pd.Timedelta(days=int(rng.integers(0, 11)))
                         if site_id == "FRP":
                             paid = inv_date + pd.Timedelta(days=int(rng.integers(10, 21)))  # pays early
@@ -697,10 +703,10 @@ def generate_transactions(vm, vmap, contracts, rates):
                             dup["paid_date"] = (pd.Timestamp(dup["invoice_date"])
                                                 + pd.Timedelta(days=terms)).date()
                             inv_rows.append(dup)
-                            truth_rows[-1]["flags"] = (truth_rows[-1]["flags"] or "") + ";duplicate_invoice"
+                            truth_rows[-1]["pattern_flags"] = (truth_rows[-1]["pattern_flags"] or "") + ";duplicate_invoice"
 
     truth = pd.DataFrame(truth_rows)
-    truth["flags"] = truth["flags"].str.strip(";")
+    truth["pattern_flags"] = truth["pattern_flags"].str.strip(";")
     return pd.DataFrame(po_rows), truth, pd.DataFrame(gr_rows), pd.DataFrame(inv_rows)
 
 
@@ -784,7 +790,7 @@ def main():
     print("\nSpend by year (excluding planted price errors):")
     print(clean_amount.groupby(po["year"]).sum().map("${:,.0f}".format).to_string())
     print("\nPlanted pattern counts (PO lines):")
-    print(truth["flags"].str.split(";").explode().value_counts().to_string())
+    print(truth["pattern_flags"].str.split(";").explode().value_counts().to_string())
 
 
 if __name__ == "__main__":
