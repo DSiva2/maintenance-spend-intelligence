@@ -15,4 +15,4 @@ python src/generate_data.py
 
 ## Data note
 
-Internal procurement data is synthetic, because real procurement data is confidential. Price trends follow real U.S. Bureau of Labor Statistics indices from FRED. All company and supplier names are fictional.
+Internal procurement data is synthetic, because real procurement data is confidential. Price and wage trends follow real U.S. Bureau of Labor Statistics indices, accessed through FRED (Federal Reserve Bank of St. Louis). All company and supplier names are fictional.

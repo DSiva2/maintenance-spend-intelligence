@@ -1,0 +1,100 @@
+vendor_id,vendor_name,supplier_id,match_reason,status
+V10001,Delta Rotating Equipment Inc,SUP023,group_anchor,Active
+V10002,Delta Rotating Equip,SUP023,tax_id,Active
+V10003,Delta Rotating Equipment,SUP023,name_match_100,Active
+V10004,Sabine Pump Works LLC,SUP043,group_anchor,Active
+V10005,SABINE PUMP WORKS LLC,SUP043,tax_id,Active
+V10006,Sabine Pump Works L.L.C.,SUP043,tax_id,Active
+V10007,Brazos Machine & Repair Co,SUP012,group_anchor,Active
+V10008,Brazos Machine & Repair,SUP012,tax_id,Inactive
+V10009,Acadiana Compressor Service LLC,SUP001,group_anchor,Active
+V10010,"ACADIANA COMPRESSOR SERVICE, LLC",SUP001,tax_id,Active
+V10011,Acadiana Compressor Service,SUP001,tax_id,Inactive
+V10012,Magnolia Pump Service LLC,SUP033,group_anchor,Active
+V10013,Lone Star Valve Supply Inc,SUP031,group_anchor,Active
+V10014,Crescent Flow Control LLC,SUP018,group_anchor,Active
+V10015,CRESCENT FLOW CONTROL,SUP018,tax_id,Active
+V10016,Bayou Valve & Supply Co,SUP008,group_anchor,Active
+V10017,BAYOU VALVE AND SUPPLY,SUP008,tax_id,Active
+V10018,Red River Valve Co,SUP040,group_anchor,Active
+V10019,Red  River Valve Company,SUP040,tax_id,Active
+V10020,RED RIVER VALVE COMPANY,SUP040,name_match_100,Active
+V10021,Southern Industrial Pipe & Supply Corp,SUP044,group_anchor,Active
+V10022,Southern Industrial Pipe&Supply Corporation,SUP044,tax_id,Active
+V10023,Trinity Pipe & Fittings LLC,SUP048,group_anchor,Active
+V10024,TRINITY PIPE & FITTINGS LLC,SUP048,tax_id,Inactive
+V10025,Calcasieu Steel Supply Inc,SUP013,group_anchor,Active
+V10026,CALCASIEU STEEL SUP INC,SUP013,name_match_100,Inactive
+V10027,Calcasieu Steel Sup Inc,SUP013,tax_id,Active
+V10028,Pelican Pipe & Valve LLC,SUP035,group_anchor,Active
+V10029,Magnolia Mechanical Constructors LLC,SUP032,group_anchor,Active
+V10030,"Magnolia Mech Constructors, LLC",SUP032,name_match_100,Active
+V10031,Magnolia Mechanical Constructors L.L.C.,SUP032,tax_id,Active
+V10032,Ironclad Industrial Services Inc,SUP028,group_anchor,Active
+V10033,Bayport Mechanical LP,SUP010,group_anchor,Active
+V10034,Cypress Field Services LLC,SUP019,group_anchor,Active
+V10035,Cypress Field Services,SUP019,name_match_100,Active
+V10036,"CYPRESS FIELD SERVICES, LLC",SUP019,tax_id,Active
+V10037,Delta Industrial Contractors Inc,SUP022,group_anchor,Active
+V10038,"Delta Industrial Contractors, Inc.",SUP022,tax_id,Active
+V10039,Gulf Coast Scaffold Services LLC,SUP024,group_anchor,Active
+V10040,Gulf  Coast Scaffold Svcs,SUP024,tax_id,Active
+V10041,"GUL  COAST SCAFFOLD SERVICES, LLC",SUP024,tax_id,Active
+V10042,Apex Access Systems Inc,SUP004,group_anchor,Active
+V10043,APEX ACCESS SYSTEMS,SUP004,tax_id,Active
+V10044,Pelican Scaffold & Rigging LLC,SUP036,group_anchor,Active
+V10045,Pelican Scaffold & Rigging,SUP036,tax_id,Active
+V10046,Atchafalaya Insulation Co,SUP005,group_anchor,Active
+V10047,Summit Thermal Services LLC,SUP045,group_anchor,Active
+V10048,SUMMIT THERMAL SERVICES L.L.C.,SUP045,tax_id,Active
+V10049,Republic Insulation Inc,SUP041,group_anchor,Active
+V10050,REPUBLIC INSULATION,SUP041,tax_id,Active
+V10051,Precision NDT Services Inc,SUP038,group_anchor,Active
+V10052,Allied Inspection Group LLC,SUP003,group_anchor,Active
+V10053,ALLIE INSPECTION GROUP LLC,SUP003,name_match_98,Active
+V10054,"Allied Inspection Group, LLC",SUP003,tax_id,Active
+V10055,Allied Inspection Group,SUP003,tax_id,Inactive
+V10056,Coastal Integrity Testing LLC,SUP016,group_anchor,Active
+V10057,COASTAL INTEGRITY TESTING LLC,SUP016,tax_id,Active
+V10058,"Coastal Integrity Testing, LLC",SUP016,tax_id,Active
+V10059,Lone Star Inspection Services LLC,SUP030,group_anchor,Active
+V10060,Texan Hydroblasting Inc,SUP046,group_anchor,Active
+V10061,Texan Hydroblasting Incorporated,SUP046,name_match_100,Active
+V10062,TEXA HYDROBLASTING INCORPORATED,SUP046,tax_id,Active
+V10063,Bayou Vacuum & Industrial Cleaning LLC,SUP007,group_anchor,Active
+V10064,Coastal Hydro Services LLC,SUP015,group_anchor,Blocked
+V10065,Crescent City Electric Supply Inc,SUP017,group_anchor,Active
+V10066,Lone Star Automation LLC,SUP029,group_anchor,Active
+V10067,Lone Star Automation L.L.C.,SUP029,name_match_100,Active
+V10068,LONE STAR AUTOMATION L.L.C.,SUP029,name_match_100,Active
+V10069,Sabine Instrument Co,SUP042,group_anchor,Active
+V10070,SABINE INSTRUMENT COMPANY,SUP042,name_match_100,Active
+V10071,Bayou Electrical Contractors LLC,SUP006,group_anchor,Active
+V10072,Bayou Electrical Contractors,SUP006,tax_id,Active
+V10073,Red River Crane & Rigging LLC,SUP039,group_anchor,Active
+V10074,Red River Crane & Rigging,SUP039,tax_id,Active
+V10075,Gulfway Equipment Rentals Inc,SUP027,group_anchor,Active
+V10076,Bayport Lift Rentals LLC,SUP009,group_anchor,Active
+V10077,"Bayport Lift Rentals, LLC",SUP009,tax_id,Active
+V10078,Coastal Equipment Rental Co,SUP014,group_anchor,Active
+V10079,COASTAL EQUIPMENT RENTAL CO.,SUP014,tax_id,Active
+V10080,Delta Bearing & Power Transmission Inc,SUP021,group_anchor,Active
+V10081,DELTA BEARING & POWER TRANSMISSION,SUP021,name_match_100,Active
+V10082,DELT BEARING & POWER TRANSMISSION,SUP021,name_match_99,Active
+V10083,Gulf States Seal & Gasket Co,SUP026,group_anchor,Active
+V10084,Pelican Industrial Supply LLC,SUP034,group_anchor,Active
+V10085,Pelican Industrial Sup,SUP034,name_match_100,Inactive
+V10086,PELICAN IND SUPPLY L.L.C.,SUP034,tax_id,Active
+V10087,Pelica Industrial Supply LLC,SUP034,tax_id,Active
+V10088,Brazos Industrial Parts Inc,SUP011,group_anchor,Active
+V10089,BRAZOS INDUSTRIAL PARTS INC,SUP011,name_match_100,Active
+V10090,Trinity Bearing Supply LLC,SUP047,group_anchor,Active
+V10091,"TRINITY BEARING SUPPLY, LLC",SUP047,tax_id,Active
+V10092,Petro Lube Distributors Inc,SUP037,group_anchor,Active
+V10093,Petro Lube Distributors Inc.,SUP037,tax_id,Inactive
+V10094,Cypress Lubricants LLC,SUP020,group_anchor,Active
+V10095,CYPRESS LUBRICANTS LLC,SUP020,tax_id,Active
+V10096,CYPRESS LUBRICANTS LLC,SUP020,tax_id,Active
+V10097,Acadiana Oil & Chemical Co,SUP002,group_anchor,Active
+V10098,Gulf Lubricants & Supply Inc,SUP025,group_anchor,Active
+V10099,Gul Lubricants and Supply,SUP025,tax_id,Active

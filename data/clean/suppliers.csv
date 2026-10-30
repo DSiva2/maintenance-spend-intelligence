@@ -1,0 +1,49 @@
+supplier_id,supplier_name,city,state,status,blocked_date,safety_emr,insurance_expiry,vendor_records
+SUP001,Acadiana Compressor Service LLC,Lafayette,LA,Active,,1.14,2026-09-17,3
+SUP002,Acadiana Oil & Chemical Co,Lafayette,LA,Active,,,,1
+SUP003,Allied Inspection Group LLC,Baton Rouge,LA,Active,,0.9,2026-12-29,4
+SUP004,Apex Access Systems Inc,Deer Park,TX,Active,,0.92,2026-08-10,2
+SUP005,Atchafalaya Insulation Co,Plaquemine,LA,Active,,0.92,2025-08-24,1
+SUP006,Bayou Electrical Contractors LLC,Gonzales,LA,Active,,,,2
+SUP007,Bayou Vacuum & Industrial Cleaning LLC,Sulphur,LA,Active,,0.63,2026-10-27,1
+SUP008,Bayou Valve & Supply Co,Sulphur,LA,Active,,,,2
+SUP009,Bayport Lift Rentals LLC,La Porte,TX,Active,,1.02,2026-02-04,2
+SUP010,Bayport Mechanical LP,La Porte,TX,Active,,1.01,2025-05-31,1
+SUP011,Brazos Industrial Parts Inc,Angleton,TX,Active,,,,2
+SUP012,Brazos Machine & Repair Co,Freeport,TX,Active,,0.69,2025-07-30,2
+SUP013,Calcasieu Steel Supply Inc,Lake Charles,LA,Active,,,,3
+SUP014,Coastal Equipment Rental Co,Lake Charles,LA,Active,,0.82,2026-09-04,2
+SUP015,Coastal Hydro Services LLC,Texas City,TX,Blocked,2024-06-01,0.77,2026-03-19,1
+SUP016,Coastal Integrity Testing LLC,Lake Charles,LA,Active,,1.09,2026-12-03,3
+SUP017,Crescent City Electric Supply Inc,New Orleans,LA,Active,,,,1
+SUP018,Crescent Flow Control LLC,Kenner,LA,Active,,,,2
+SUP019,Cypress Field Services LLC,Cypress,TX,Active,,0.85,2026-06-07,3
+SUP020,Cypress Lubricants LLC,Cypress,TX,Active,,,,3
+SUP021,Delta Bearing & Power Transmission Inc,Baton Rouge,LA,Active,,,,3
+SUP022,"Delta Industrial Contractors, Inc.",Geismar,LA,Active,,0.79,2026-08-29,2
+SUP023,Delta Rotating Equipment Inc,Baton Rouge,LA,Active,,1.03,2026-06-22,3
+SUP024,Gulf Coast Scaffold Services LLC,Port Allen,LA,Active,,0.7,2026-11-04,3
+SUP025,Gulf Lubricants & Supply Inc,Texas City,TX,Active,,,,2
+SUP026,Gulf States Seal & Gasket Co,Houston,TX,Active,,,,1
+SUP027,Gulfway Equipment Rentals Inc,Houston,TX,Active,,1.0,2025-12-15,1
+SUP028,Ironclad Industrial Services Inc,Pasadena,TX,Active,,0.69,2025-01-11,1
+SUP029,Lone Star Automation L.L.C.,Sugar Land,TX,Active,,,,3
+SUP030,Lone Star Inspection Services LLC,Pearland,TX,Active,,0.61,2026-03-06,1
+SUP031,Lone Star Valve Supply Inc,Houston,TX,Active,,,,1
+SUP032,Magnolia Mechanical Constructors L.L.C.,Baton Rouge,LA,Active,,0.98,2026-10-14,3
+SUP033,Magnolia Pump Service LLC,Conroe,TX,Active,,0.92,2025-03-19,1
+SUP034,Pelican Industrial Supply LLC,Conroe,TX,Active,,,,4
+SUP035,Pelican Pipe & Valve LLC,Gonzales,LA,Active,,,,1
+SUP036,Pelican Scaffold & Rigging LLC,Prairieville,LA,Active,,1.16,2025-05-31,2
+SUP037,Petro Lube Distributors Inc,Houston,TX,Active,,,,2
+SUP038,Precision NDT Services Inc,Houston,TX,Active,,0.66,2026-04-10,1
+SUP039,Red River Crane & Rigging LLC,Baton Rouge,LA,Active,,0.75,2025-12-13,2
+SUP040,Red River Valve Company,Shreveport,LA,Active,,,,3
+SUP041,Republic Insulation Inc,Houston,TX,Active,,1.19,2026-04-22,2
+SUP042,Sabine Instrument Co,Port Arthur,TX,Active,,,,2
+SUP043,Sabine Pump Works LLC,Orange,TX,Active,,0.86,2026-11-05,3
+SUP044,Southern Industrial Pipe & Supply Corp,Houston,TX,Active,,,,2
+SUP045,Summit Thermal Services LLC,Beaumont,TX,Active,,1.1,2026-03-18,2
+SUP046,Texan Hydroblasting Inc,Pasadena,TX,Active,,0.76,2025-08-09,3
+SUP047,Trinity Bearing Supply LLC,Baytown,TX,Active,,,,2
+SUP048,Trinity Pipe & Fittings LLC,Baytown,TX,Active,,,,2
